@@ -1,0 +1,21 @@
+{
+  "name": "Irrigation Trial - تجربة الري",
+  "short_name": "تجربة الري",
+  "description": "Offline pivot irrigation trial calculator and analysis",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f0f4f0",
+  "theme_color": "#176b45",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
